@@ -38,7 +38,7 @@ I am interested in understanding how viruses and microbes will dynamically chang
 </p>
 Microbiome science is a relatively new field that is rapidly expanding our insights on how microbes function together as complex communities and even newer - how viruses control their stories. As many of our methods are moving towards analyzing partial and full metagenomes, their expression data (metatranscriptomes, metaproteomes, and metabolomes), and their environmental parameters, we are racing to borrow methods from applied mathematics and statistics to characterize these complex systems. 
 
-However, due to the underabundance of interdisciplinary training programs in science, analytically and statistically modelling microbiome and virome informatics is a still a challenge. I am interested in leveraging my quantitiative training to understand how stories are told from current tools, and identifying scientific community needs to develop frameworks and methods that can pull additional depth and dimension to the rich microbiome/virome datasets we are racing to collect and characterize.
+However, due to the underabundance of interdisciplinary training programs in science, analytically and statistically modelling microbiome and virome informatics is remains a challenge. I am interested in leveraging my quantitiative training to understand how stories are told from current tools, and identifying scientific community needs to develop frameworks and methods that can pull additional depth and dimension to the rich microbiome/virome datasets we are racing to collect and characterize.
 
 ## Applied Microbial and Viral Climate Solutions
 <p align="center">
@@ -46,6 +46,6 @@ However, due to the underabundance of interdisciplinary training programs in sci
   <br>
   Caption: Potential applications of phage therapy. Schwarz et al. 2021.
 </p>
-In an ideal world, if we can understand how microbes and viruses function to change ecosystem metabolisms and if we have confident tools to monitor, assess, and predict their dynamics, we would be able to engineer tangible solutions towards reducing harm induced from climate change. 
+In an ideal world, if we can understand how microbes and viruses function to change ecosystem metabolisms and if we have confidence in tools to monitor, assess, and predict their dynamics, we would be able to engineer tangible solutions towards reducing harm induced from climate change. 
 
 I hope to understand how to implement this through community knowledge co-creation practices, identifying opportunities for microbiome/virome-informed ecosystem management, and ultimately, developing tools such as phage therapies that could improve ecosystem health.
