@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div align="center">
-    <img src="images/Ohio_State_Buckeyes_logo.svg.png" width = 200 height = 200>
-    <img src="images/microbiology.svg" width = 400 height = 200>
+    <img src="images/Ohio_State_Buckeyes_logo.svg.png" width = 100 height = 100>
+    <img src="images/microbiology.svg" width = 400 height = 100>
 </div>
 
 👨‍🔬 Hi there! I am Dawson Phan, a PhD student in Microbiology co-supervised by [Dr. Virginia Rich](https://microbiology.osu.edu/people/rich.270) and [Dr. Matthew Sullivan](https://u.osu.edu/viruslab/) @ the Ohio State University.
@@ -44,7 +44,7 @@ However, due to the underabundance of interdisciplinary training programs in sci
 
 ## Applied Microbial and Viral Climate Solutions
 <p align="center">
-  <img src="https://pubs.acs.org/cms/10.1021/acs.est.1c06232/asset/images/medium/es1c06232_0006.gif" width = 200 height = 200>
+  <img src="https://pubs.acs.org/cms/10.1021/acs.est.1c06232/asset/images/medium/es1c06232_0006.gif" width = 250 height = 250>
   <br>
   Caption: Potential applications of phage therapy. Schwarz et al. 2021.
 </p>
