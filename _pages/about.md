@@ -29,7 +29,7 @@ redirect_from:
   Caption: Simplified ocean nitrogen cycle diagram. Webb, Paul - Introduction to Oceanography (2023).
 </p>
 
-Microbes are faciniating in that, by having a wide metabolic arsenal across many different environmental resources, they are able to make drastic impacts on ecosystem nutrient pools and fluxes, leading to dramatic shifts across all trophic levels. Viruses complicate this story by manipulating microbial genomes to increase their fitness by directly impacting metabolic genes and encouraging horizontal gene transfer to drive evolution.
+Microbes are facinating in that, by having a wide metabolic arsenal across many different environmental resources, they are able to make drastic impacts on ecosystem nutrient pools and fluxes, leading to dramatic shifts across all trophic levels. Viruses complicate this story by manipulating microbial genomes to increase their fitness by directly impacting metabolic genes and encouraging horizontal gene transfer to drive evolution.
 
 I am interested in understanding how viruses and microbes will dynamically change on both short and long timescales due to global climate change and anthropogenic environmental degradation. I am particularly passionate about understanding anaerobic nitrogen metabolism within marine oxygen minimum zones and global archaeal methane production from freshwater enviroments.
 
