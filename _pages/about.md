@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="images/Ohio_State_Buckeyes_logo.svg.png" width = 100 height = 100> <br>
-<img src="images/microbiology.svg" width = 400 height = 100>
+<p align="center">
+  <img src="images/headshot_log.png" width = 400 height = 200>
+</p>
 
 👨‍🔬 Hi there! I am Dawson Phan, a PhD student in Microbiology co-supervised by [Dr. Virginia Rich](https://microbiology.osu.edu/people/rich.270) and [Dr. Matthew Sullivan](https://u.osu.edu/viruslab/) @ the Ohio State University.
 
