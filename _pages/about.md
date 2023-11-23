@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style="text-align: center;">Towards utilizing, understanding, and developing **En**viromental **Vir**ome-**Microbiome** Statistical **Metrics**</p>
+
 <p align="center">
   <img src="images/headshot_log.png" width = 500 height = 300>
 </p>
