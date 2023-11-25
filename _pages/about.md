@@ -19,7 +19,7 @@ redirect_from:
 
 🧑‍🎓 My undergraduate training (BSc McGill University, 2018 - 2022) spans multiple disciplines in both coursework and research, emphasizing the development of expertise in the bio-environmental contexts I am passionate about (ecology, oceanography, environmental systems), the quantitative training to strengthen my literacy and computational skills (applied mathematics, statistics, computer science), and the integration of multiple disciplines (biology and mathematics).
 
-🔬 My research goals during my PhD are to *apply* this approach towards **telling compelling stories** in complex ecosystems with the best quantitative methods we have, and **developing new tools** to address contemporary problems the rapidly developing space of microbial and viral ecogenomics. 
+🔬 My research goals during my PhD are to *apply* this approach towards **telling compelling stories** in complex ecosystems with the best quantitative methods we have, and **developing new tools** to address contemporary problems in the rapidly developing space of microbial and viral ecogenomics. 
 
 # Current Research Interests
 ## Viral and Microbial Impacts on Ecosystem Metabolisms and Biogeochemistry
