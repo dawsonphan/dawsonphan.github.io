@@ -10,7 +10,7 @@ redirect_from:
 
 <div align="center">
 
-# 🌊🦠 **EnViro(Microbio)Metrics** 🧫📊  
+🌊🦠 **EnViro(Microbio)Metrics** 🧫📊  
 **Towards understanding, utilizing, and developing mathematical & statistical tools for environmental microbiomes and viromes.**
 
 <img src="images/headshot_log.png" width="500" height="300" alt="Headshot" style="margin-top: 1em;"/>
@@ -92,4 +92,4 @@ I aim to support these goals through:
 
 ---
 
-Thanks for visiting! If you’re interested in any of the above, want to collaborate, or just chat about coral viromes and math, feel free to [reach out](mailto:your.email@example.com)! 🌍💬
+Thanks for visiting! If you’re interested in any of the above, want to collaborate, or just chat about coral viromes and math, feel free to [reach out](mailto:phan.200@osu.edu)! 🌍💬
