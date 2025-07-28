@@ -11,6 +11,7 @@ redirect_from:
 <div align="center">
 
 🌊🦠 **EnViro(Microbio)Metrics** 🧫📊  
+
 **Towards understanding, utilizing, and developing mathematical & statistical tools for environmental microbiomes and viromes.**
 
 <img src="images/headshot_log.png" width="500" height="300" alt="Headshot" style="margin-top: 1em;"/>
